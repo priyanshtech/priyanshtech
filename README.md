@@ -25,12 +25,6 @@ I’m **Priyansh Khatri**, a Computer Science student focused on building clean,
 
 ---
 
-### 📊 GitHub Stats
-
-![Priyansh's GitHub stats](https://github-readme-stats.vercel.app/api?username=priyanshtech&show_icons=true&theme=transparent)
-
----
-
 ### 🚀 Current Focus
 
 - Building production-quality projects  
