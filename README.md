@@ -14,4 +14,4 @@ Vercel
 Python
 
 Github Stats
-https://github.com/priyanshtech/github-readme-stats
+https://github-readme-stats.vercel.app/api?username=priyanshtech&hide=contribs,prs
