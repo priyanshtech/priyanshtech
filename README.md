@@ -1,37 +1,17 @@
-## Hi there 👋
+About
 
-I’m **Priyansh Khatri**, a Computer Science student focused on building clean, scalable web applications and improving software engineering fundamentals.
+I am a frontend-focused developer working with React and Next.js.
+I learn by building real projects and improving through hands-on practice.
+I focus on understanding full-stack architecture, including how frontend connects with backend and databases.
+I code and learn for around 10 hours daily, with a strong emphasis on fundamentals and consistency.
 
----
+Skills
 
-### 👨‍💻 About Me
+React, Next.js, TypeScript, JavaScript
+Tailwind CSS, shadcn/ui
+Git, GitHub
+Vercel
+Python
 
-- 🔭 Working on frontend and full-stack projects
-- 🧠 Strong interest in React, Next.js, and modern UI development
-- 👯 Open to collaborating on meaningful open-source projects
-- 💬 Ask me about React, Next.js, Tailwind CSS, or frontend architecture
-- 📫 Connect with me:
-  - LinkedIn: https://www.linkedin.com/in/priyansh-khatri-635336346/
-  - X (Twitter): https://x.com/PriyanshKhatri5
-
-
----
-
-### 🛠️ Tech Stack
-
-- **Frontend:** React, Next.js, HTML, CSS, Tailwind CSS  
-- **Languages:** JavaScript, TypeScript, Python  
-- **Tools & Platforms:** Git, GitHub, VS Code  
-
----
-
-### 🚀 Current Focus
-
-- Building production-quality projects  
-- Writing clean, maintainable code  
-- Improving UI/UX consistency  
-- Exploring real-world software workflows  
-
----
-
-Feel free to explore my repositories and connect.
+Github Stats
+https://github.com/priyanshtech/github-readme-stats
